@@ -1,6 +1,8 @@
 /* estilos de la web de santext */
 
 /* estilo de borde */
-.borde{
+.header{
     border-bottom: 1px solid gray;
-}
+    display: flex;
+    padding: 10px 100px;
+}                                       
