@@ -45,4 +45,10 @@ body{
 
 h1{
     margin: 0px 400px;
+    text-align: center;
+}
+
+div#introduction-actions{
+    display: flex;
+    justify-content: center;
 }
