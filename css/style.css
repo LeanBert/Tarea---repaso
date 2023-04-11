@@ -5,4 +5,9 @@
     border-bottom: 1px solid gray;
     display: flex;
     padding: 10px 100px;
-}                                       
+    background-color: lavender;
+}   
+
+div#header-right{
+    display: flex;
+}
