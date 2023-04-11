@@ -34,3 +34,7 @@ button{
     height: 32px;
     margin-top: 12px;
 }
+
+body{
+    margin: 0px;
+}
