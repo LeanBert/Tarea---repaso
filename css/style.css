@@ -7,9 +7,29 @@
     padding: 10px 100px;
     background-color: lavender;
     justify-content: space-between;
+    
 }   
 
+/* estilo de menu de la derecha */
 div#header-right{
     display: inline-flex;
-    
+}
+
+/* estilo de etiquetas p */
+p {
+    margin-right: 40px;
+    color:purple;
+    font-size: 18px;
+    font-weight: bolder;
+    text-shadow: 2px 5px 3px violet;
+}
+
+/* estilo del botón - sumate */
+button{
+    background-color: white;
+    border: 2px dashed black;
+    border-radius: 25px;
+    padding: 0px 25px;
+    height: 32px;
+    margin-top: 12px;
 }
