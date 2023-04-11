@@ -13,6 +13,7 @@
 /* estilo de menu de la derecha */
 div#header-right{
     display: inline-flex;
+    align-items: center;
 }
 
 /* estilo de etiquetas p */
