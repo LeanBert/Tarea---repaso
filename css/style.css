@@ -1,5 +1,8 @@
-/* estilos de la web de santext */
+/* Fuentes de google */
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
 
+
+/* estilos de la web de santext */
 /* estilo de borde */
 .header{
     border-bottom: 1px solid gray;
@@ -57,4 +60,8 @@ div#introduction-actions{
 #introduction{
     padding: 50px;
     margin-top: 25px;
+}
+
+div#introduction-text{
+    font-family: 'Spectral', serif;
 }
